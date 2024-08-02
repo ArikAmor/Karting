@@ -2,5 +2,5 @@ numpy===1.22.0
 tensorflow==2.12.1
 onnx==1.16.0
 h5py==2.8.0
-Keras==2.1.6
+Keras==2.13.1
 
